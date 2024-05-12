@@ -1,0 +1,17 @@
+{
+  "name": "3hw_packages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "commonjs",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "greeting": "^1.0.6",
+    "greetings": "^1.0.0",
+    "moment": "^2.30.1"
+  },
+  "description": ""
+}

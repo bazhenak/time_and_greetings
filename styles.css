@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: gainsboro;
+    margin-left: 30%;
+}
+
+/*.title {*/
+/*    color: indianred;*/
+/*}*/
+
+h3 {
+    font-size: 30px;
+    color: mediumpurple;
+
+}
+
+.time {
+    font-size: 30px;
+    color: fuchsia;
+}
+
+#greeting {
+    color: fuchsia;
+}
