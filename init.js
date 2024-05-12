@@ -6,7 +6,7 @@
 
 const time = setInterval(function() {
     const date = new Date();
-    document.getElementById("time").innerHTML = (date.getHours() + ":" + date.getMinutes() + ":" + date.getSeconds());
+    document.getElementById("time").innerHTML = date.toLocaleTimeString();
     },
     3000);
 
